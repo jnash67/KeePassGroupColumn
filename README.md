@@ -7,14 +7,14 @@ The column shows the full path of the Group.  If the top level is called Databas
 
 ## Installation
 
- - Download the latest release [here](https://github.com/tiuub/KP2faChecker/releases/latest)
- - Copy the KP2faChecker.plgx in the KeePass plugins directory and restart the application.
+ - Download the dll from the root directory [here](https://github.com/jnash67/KeePassGroupColumn/blob/master/GroupColumn.dll)
+ - Copy the GroupColumn.dll file to the KeePass plugins directory and restart the application.
 
 
 ## Usage
 
 At first you have to activate the column. Therefore navigate to
- - View -> Configure Columns -> (Scroll down) -> Check "2FA Support"
+ - View -> Configure Columns -> (Scroll down) -> Check "Group"
 
 
 If you have activated, it should show you the column.
