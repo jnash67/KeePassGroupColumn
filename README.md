@@ -7,6 +7,8 @@ The column shows the full path of the Group.  If the top level is called Databas
 
 ![Column](Screenshots/screenshot-1.PNG)
 
+![Screenshot](https://github.com/jnash67/KeePassGroupColumn/blob/master/Screenshots/screenshot-1.png)
+
 ## Installation
 
  - Download the dll from the root directory [here](https://github.com/jnash67/KeePassGroupColumn/blob/master/GroupColumn.dll)
