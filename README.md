@@ -21,5 +21,7 @@ At first you have to activate the column. Therefore navigate to
 
 If you have activated, it should show you the column.
 
-![Column](Screenshots/screenshot-1.PNG)
-
+## Additional Information
+This is my first KeePass plugin.  It was based on a couple of good existing projects:
+https://keepass.info/extensions/v2/qualitycolumn/QualityColumn-1.3-Source.zip
+https://github.com/tiuub/KP2faChecker
