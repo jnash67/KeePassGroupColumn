@@ -118,9 +118,9 @@ namespace GroupColumn
                 pg = pg.ParentGroup;
             }
 
-            return path + " / " +
-				pe.ParentGroup.GetEntriesCount(false) + " / " +
-				pe.ParentGroup.GetEntriesCount(true) + " / ";
+            return path + "/" +
+				pe.ParentGroup.GetEntriesCount(false) + "/" +
+				pe.ParentGroup.GetEntriesCount(true);
 		}
     }
 }
