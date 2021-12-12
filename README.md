@@ -5,6 +5,8 @@ Sometimes you want to sort by something like 'Title' across groups.  You therefo
 
 The column shows the full path of the Group.  If the top level is called Database, you have a subgroup called Email and a sub-subgroup called Work, the column will show "Database/Email/Work".  It will also show two numbers.  The first number is the number of items total are in that group, excluding sub-groups.  The second number is the number of items total including sub-groups.  The second number should therefore always be greater than or equal to the first number.
 
+![Column](Screenshots/screenshot-1.PNG)
+
 ## Installation
 
  - Download the dll from the root directory [here](https://github.com/jnash67/KeePassGroupColumn/blob/master/GroupColumn.dll)
