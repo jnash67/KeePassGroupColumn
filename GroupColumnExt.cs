@@ -72,6 +72,11 @@ namespace GroupColumn
 		{
 			GroupColumnProvider.ClearCache();
 		}
+
+		public override string UpdateUrl
+		{
+			get { return "https://raw.githubusercontent.com/jnash67/KeePassGroupColumn/master/version.txt"; }
+		}
 	}
 
 	public sealed class GroupColumnProvider : ColumnProvider
